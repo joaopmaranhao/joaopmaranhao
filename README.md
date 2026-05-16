@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm João Pedro, a computer engineer undergrad at UFPB, i like studying about software engineering, machine learning and computer graphics, also adventuring myself with competitive programming and low level systems
+
 <!--
 **joaopmaranhao/joaopmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
