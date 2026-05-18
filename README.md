@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github)](https://skillicons.dev)
+
 ### Buenas 👋 I'm João Pedro
 
 Computer Engineering undergrad @ **UFPB** — I spend most of my time writing C, thinking about how computers actually work, and occasionally questioning my life choices in competitive programming.
