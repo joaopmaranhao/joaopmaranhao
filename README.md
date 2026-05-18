@@ -1,7 +1,28 @@
-## Buenas 👋
+### Buenas 👋 I'm João Pedro
 
-I'm João Pedro, a computer engineer undergrad at UFPB, i like studying about software engineering, machine learning and computer graphics, also adventuring myself with competitive programming and low level systems
+Computer Engineering undergrad @ **UFPB** — I spend most of my time writing C, thinking about how computers actually work, and occasionally questioning my life choices in competitive programming.
 
+---
+
+**Interests**
+
+- ⚙️ Software Engineering
+- 🤖 Machine Learning & AI
+- 🎮 Physics simulations & computer graphics
+
+**Also im adventuring myself with**
+- 🖥️ Low-level systems & computer architecture
+- 🏆 Competitive Programming
+
+---
+
+**Stack**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+📬 [email@gmail.com](joao.maranhao@academico.ufpb.br) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3opedromaranh%C3%A3o/)
 <!--
 **joaopmaranhao/joaopmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
