@@ -5,8 +5,11 @@
 
   <h3>Reach me through</h3>
   <p>
-    📬 <a href="mailto:joao.maranhao@academico.ufpb.br">joao.maranhao@academico.ufpb.br</a> •
-    <a href="https://www.linkedin.com/in/jo%C3%A3opedromaranh%C3%A3o/">LinkedIn</a>
+  <a href="https://www.linkedin.com/joãopedromaranhão/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joao.maranhao@academico.ufpb.br">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </p>
 </div>
 
