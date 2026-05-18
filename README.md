@@ -1,4 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github)](https://skillicons.dev)
 
 ### Buenas 👋 I'm João Pedro
 
@@ -20,9 +19,8 @@ Computer Engineering undergrad @ **UFPB** — I spend most of my time writing C,
 
 **Stack**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github)](https://skillicons.dev)
+
 
 📬 [email@gmail.com](joao.maranhao@academico.ufpb.br) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3opedromaranh%C3%A3o/)
 <!--
