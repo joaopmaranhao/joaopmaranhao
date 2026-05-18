@@ -16,16 +16,19 @@
   <h2>Stack</h2>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github" />
 </div>
----
 
-**Interests**
-- ⚙️ Software Engineering
-- 🤖 Machine Learning & AI
-- 🎮 Physics simulations & computer graphics
+<div align="center">
 
-**Also adventuring myself with**
-- 🖥️ Low-level systems & computer architecture
-- 🏆 Competitive Programming
+<h3>Interests</h3>
+
+⚙️ Software Engineering &nbsp;•&nbsp; 🤖 Machine Learning & AI &nbsp;•&nbsp; 🎮 Physics simulations & computer graphics
+
+<h3>Also adventuring myself with</h3>
+
+🖥️ Low-level systems & computer architecture &nbsp;•&nbsp; 🏆 Competitive Programming
+
+</div>
+
 <!--
 **joaopmaranhao/joaopmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
