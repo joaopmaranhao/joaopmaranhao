@@ -1,7 +1,8 @@
 
 ### Buenas 👋 I'm João Pedro
 
-Computer Engineering undergrad @ **UFPB** — I spend most of my time writing C, thinking about how computers actually work, and occasionally questioning my life choices in competitive programming.
+Computer Engineering undergrad @ **UFPB** — I spend most of my time writing code, putting ideas to work and drinking coffee
+📬 [email@gmail.com](joao.maranhao@academico.ufpb.br) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3opedromaranh%C3%A3o/)
 
 ---
 
@@ -22,7 +23,6 @@ Computer Engineering undergrad @ **UFPB** — I spend most of my time writing C,
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github)](https://skillicons.dev)
 
 
-📬 [email@gmail.com](joao.maranhao@academico.ufpb.br) • [LinkedIn](https://www.linkedin.com/in/jo%C3%A3opedromaranh%C3%A3o/)
 <!--
 **joaopmaranhao/joaopmaranhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
