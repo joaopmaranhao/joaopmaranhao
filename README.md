@@ -1,4 +1,4 @@
-## Hi there 👋
+## Buenas 👋
 
 I'm João Pedro, a computer engineer undergrad at UFPB, i like studying about software engineering, machine learning and computer graphics, also adventuring myself with competitive programming and low level systems
 
