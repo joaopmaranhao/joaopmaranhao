@@ -24,11 +24,11 @@
 
 <h3>Interests</h3>
 
-⚙️ Software Engineering &nbsp;•&nbsp; 🤖 Machine Learning & AI &nbsp;•&nbsp; 🎮 Physics simulations & computer graphics
+⚙️ Software Engineering &nbsp;•&nbsp; 🧠 Machine Learning & AI &nbsp;•&nbsp; 🎮 Physics simulations & computer graphics
 
 <h3>Also adventuring myself with</h3>
 
-🖥️ Low-level systems & computer architecture &nbsp;•&nbsp; 🏆 Competitive Programming
+🖥️ Low-level systems & computer architecture &nbsp;•&nbsp; 🏆 Competitive Programming; 🤖 Robotics
 
 </div>
 
