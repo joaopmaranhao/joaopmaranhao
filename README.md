@@ -28,7 +28,7 @@
 
 <h3>Also adventuring myself with</h3>
 
-🖥️ Low-level systems & computer architecture &nbsp;•&nbsp; 🏆 Competitive Programming; 🤖 Robotics
+🖥️ Low-level systems & computer architecture &nbsp;•&nbsp; 🏆 Competitive Programming  &nbsp;•&nbsp; 🤖 Robotics
 
 </div>
 
