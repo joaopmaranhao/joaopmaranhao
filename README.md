@@ -17,7 +17,7 @@
 
 <div align="center">
   <h2>Stack</h2>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,sklearn,postgres,vscode,git,github" />
 </div>
 
 <div align="center">
